@@ -93,6 +93,6 @@ export default {
 <style lang='stylus' rel='stylesheet/stylus'>
   .remote
       text-align center
-  /*.el-scrollbar__bar.is-vertical*/
-      /*display none !important*/
+  .el-scrollbar__bar.is-vertical
+      display none !important
 </style>
